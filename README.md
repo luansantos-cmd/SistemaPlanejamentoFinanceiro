@@ -25,5 +25,4 @@ Aplicação de terminal desenvolvida em Python para simulação de investimentos
 Projeto desenvolvido para praticar lógica de programação, funções, tratamento de erros e manipulação de arquivos.
 
 ## Como executar
-
-1. Execute o arquivo:
+Executar via prompt
